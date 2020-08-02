@@ -17,3 +17,6 @@ levelOrder.class
 levelOrderLinewise1.class
 levelOrderLinewise1$Node.class
 levelOrderLinewise1$1.class
+levelOrderZigZag.class
+levelOrderZigZag$Node.class
+levelOrderZigZag$1.class
