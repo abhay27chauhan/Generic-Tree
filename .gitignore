@@ -14,3 +14,6 @@ Traversal$Node.class
 Traversal.class
 levelOrder$Node.class
 levelOrder.class
+levelOrderLinewise1.class
+levelOrderLinewise1$Node.class
+levelOrderLinewise1$1.class
