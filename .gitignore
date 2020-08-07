@@ -32,3 +32,5 @@ levelOrderLinewise4.class
 mirrorOfGenericTree.class
 mirrorOfGenericTree$1.class
 mirrorOfGenericTree$Node.class
+removeLeavesFromGT.class
+removeLeavesFromGT$Node.class
