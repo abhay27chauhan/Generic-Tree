@@ -34,3 +34,5 @@ mirrorOfGenericTree$1.class
 mirrorOfGenericTree$Node.class
 removeLeavesFromGT.class
 removeLeavesFromGT$Node.class
+LinearizeGenericTree.class
+LinearizeGenericTree$Node.class
