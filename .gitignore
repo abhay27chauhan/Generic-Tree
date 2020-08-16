@@ -36,3 +36,5 @@ removeLeavesFromGT.class
 removeLeavesFromGT$Node.class
 LinearizeGenericTree.class
 LinearizeGenericTree$Node.class
+LinearizeGenericTreeM2$Node.class
+LinearizeGenericTreeM2.class
