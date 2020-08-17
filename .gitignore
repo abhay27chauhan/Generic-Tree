@@ -42,3 +42,5 @@ findElement$Node.class
 findElement.class
 nodeToRootPath$Node.class
 nodeToRootPath.class
+lowestComAncestor$Node.class
+lowestComAncestor.class
