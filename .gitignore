@@ -40,3 +40,5 @@ LinearizeGenericTreeM2$Node.class
 LinearizeGenericTreeM2.class
 findElement$Node.class
 findElement.class
+nodeToRootPath$Node.class
+nodeToRootPath.class
