@@ -48,3 +48,5 @@ distBwNodes$Node.class
 distBwNodes.class
 areTreesSimInShape$Node.class
 areTreesSimInShape.class
+Multisolver$Node.class
+Multisolver.class
