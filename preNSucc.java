@@ -58,6 +58,7 @@ class preNSucc{
         state = 0;
 
         preNSucc(root, 90);
+        
         System.out.println("predecessor : " + predecessor.data);
         System.out.println("successor : " + successor.data);
     }
